@@ -135,5 +135,7 @@ dmypy.json
 .pytype/
 
 # personal
-.zip
+*.zip
+*.DS_Store
+assignment_0and1_solution/MP1/cifar10/cifar-10-batches-py/*batch*
 
