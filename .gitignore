@@ -138,4 +138,5 @@ dmypy.json
 *.zip
 *.DS_Store
 assignment_0and1_solution/MP1/cifar10/cifar-10-batches-py/*batch*
+*__MACOSX*
 
